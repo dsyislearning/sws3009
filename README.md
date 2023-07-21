@@ -30,7 +30,7 @@ Besides, we can only see the room details from the camera on the car, without an
 
 ### Cat Recognition CNN
 
-We use transfer learning to train our cat recognition CNN algorithms applied by our robot from VGC.
+We use transfer learning to train our cat recognition CNN algorithms applied by our robot from VGG16.
 
 ### Robot Control Logic and Hardware Architecture
 
