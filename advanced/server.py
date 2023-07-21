@@ -69,7 +69,7 @@ def pose_mp(client, msg):
     print(valid)
     if valid == True:
         client.publish("Group_18/CTRL/move", json.dumps(result))
-        log_debug("Send result " + str(result))
+        print("Send result " + str(result))
     elif valid == False:
         client.publish("Group_18/CTRL/signal", 'g')
 
