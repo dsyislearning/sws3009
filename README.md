@@ -57,6 +57,7 @@ Software:
 - Numpy
 - OpenCV
 - Mosquitto MQTT broker
+- Arduino IDE
 
 ### Functions
 
